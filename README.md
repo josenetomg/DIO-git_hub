@@ -8,15 +8,21 @@
 
 👀 I am passionate about research and development in **Computer Systems, Hardware, Low-level Software, Teleinformatics, and System Architecture**. My expertise includes **Analysis of Algorithms, Form Complexity, and Automated Languages**. I focus on leading innovations in **AI, Machine Learning, RDA, RPA, Chatbots, DevOps, and IoT**. I consider myself a polymath and a digital craftsman.
 🌱 Currently, I am deepening my knowledge in **AI, Machine Learning, Alternative Energies, and Mobility**.
+
 💞️ I am looking for collaboration and service opportunities in:
+
 * **IT Consulting & Business Data Analysis**
 * **Mobile (Android) & Web Development**
 * **Information Management**
 * **UX Design & User Experience Research**
 * **Web Design & Cybersecurity**
+* 
 📫 **How to reach me:** Let's connect on [LinkedIn](https://www.linkedin.com/in/josenetomg1969/).
+
 😄 **Pronouns:** He/Him
+
 ⚡ **Fun Fact:** I am a dedicated volunteer and enjoy participating in social projects. I strive to leave my personal mark of quality and care on everything I create.
+
 🚀 Legacy & Modern Full-Stack Mastery
 -----
 With over two decades of hands-on experience, I have developed a deep technical foundation across multiple programming paradigms and database architectures. My journey as a digital craftsman spans from the foundational logic of legacy systems to the high-performance demands of modern environments:
