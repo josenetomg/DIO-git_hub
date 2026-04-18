@@ -29,8 +29,7 @@ With over two decades of hands-on experience, I have developed a deep technical 
 This diverse toolkit allows me to bridge the gap between legacy stability and modern innovation, applying architectural rigor to every project I undertake.
 
 -----
-🤝 Agradecimentos
-Agradecimento especial à **Digital Innovation One (DIO)** e aos mentores e colegas do **Campus Expert - Turma 15** por proporcionarem esta jornada de aprendizado.
+🤝 Agradecimento especial à **Digital Innovation One (DIO)** e aos mentores e colegas do **Campus Expert - Turma 15** por proporcionarem esta jornada de aprendizado.
 -----
 *Este projeto está licenciado sob a Licença MIT.*
 *Fique à vontade para entrar em contato ou abrir uma **Issue**\!*
