@@ -7,6 +7,7 @@
 👋 **Hello, I am Jose Joaquim Brandão Neto.**
 
 👀 I am passionate about research and development in **Computer Systems, Hardware, Low-level Software, Teleinformatics, and System Architecture**. My expertise includes **Analysis of Algorithms, Form Complexity, and Automated Languages**. I focus on leading innovations in **AI, Machine Learning, RDA, RPA, Chatbots, DevOps, and IoT**. I consider myself a polymath and a digital craftsman.
+
 🌱 Currently, I am deepening my knowledge in **AI, Machine Learning, Alternative Energies, and Mobility**.
 
 💞️ I am looking for collaboration and service opportunities in:
