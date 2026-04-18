@@ -16,7 +16,7 @@
 * **Information Management**
 * **UX Design & User Experience Research**
 * **Web Design & Cybersecurity**
-* 
+   
 📫 **How to reach me:** Let's connect on [LinkedIn](https://www.linkedin.com/in/josenetomg1969/).
 
 😄 **Pronouns:** He/Him
